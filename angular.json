@@ -29,7 +29,7 @@
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/visiondream-store.less"
+              "src/styles.less"
             ],
             "scripts": []
           },
@@ -97,7 +97,7 @@
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/visiondream-store.less"
+              "src/styles.less"
             ],
             "scripts": []
           }
